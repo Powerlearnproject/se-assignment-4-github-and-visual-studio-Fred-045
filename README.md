@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/GvXCZgfk)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15316994&assignment_repo_type=AssignmentRepo)
 # SE-Assignment-4
 Assignment: GitHub and Visual Studio
 Instructions:
@@ -41,3 +43,13 @@ Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
 Submit your completed assignment by [due date].
+
+
+7TI9GO'UP;LVYBL;M,'OK;LMS;,. N A,A    WO]VFRTUYIUIOPDTFGYUIPJOK[P YUIUOIPL;'RTYUI ADMIN@FREDRICK-64Q MINGW64 /d/se-assignment-4-github-and-visual-studio-Fred-045 (main)
+$ git commit -m "Answers"
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+]
