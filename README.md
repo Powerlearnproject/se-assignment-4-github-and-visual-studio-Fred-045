@@ -43,3 +43,13 @@ Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
 Submit your completed assignment by [due date].
+
+
+7TI9GO'UP;LVYBL;M,'OK;LMS;,. N A,A    WO]VFRTUYIUIOPDTFGYUIPJOK[P YUIUOIPL;'RTYUI ADMIN@FREDRICK-64Q MINGW64 /d/se-assignment-4-github-and-visual-studio-Fred-045 (main)
+$ git commit -m "Answers"
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+]
