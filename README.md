@@ -145,9 +145,7 @@ Trigger actions on comments or events
 
 Notifications:
 
-Send to teams via email, Slack or other channels
-
-Alert on build failures or other important events
+Send to teams via email, Slack or other channels ,Alert on build failures or other important events
 
 Example: Simple CI/CD Pipeline
 
@@ -155,9 +153,7 @@ Let’s create a simple CI/CD pipeline with GitHub Actions:
 
 Create a GitHub Action:
 
-Go to the “Actions” tab in your repository and click “New workflow”
-
-Select the “CI” template or create your own
+Go to the “Actions” tab in your repository and click “New workflow”,Select the “CI” template or create your own
 
 Configure the Workflow:
 
@@ -176,9 +172,7 @@ Configure the deployment target and credentials
 
 Commit and Push:
 
-Commit your workflow file (main.yml)
-
-Push the changes to your repository
+Commit your workflow file (main.yml) ,Push the changes to your repository
 
 And now when you push to the branch, the workflow will run, build, test and deploy to the environment. 
 
